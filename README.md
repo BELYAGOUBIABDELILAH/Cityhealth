@@ -13,7 +13,7 @@
 
 [![Live Platform](https://img.shields.io/badge/🌐%20Plateforme%20Live-cityhealth--dz.lovable.app-2563EB?style=for-the-badge)](https://cityhealth-dz.lovable.app)
 [![Version](https://img.shields.io/badge/Version-1.0-10B981?style=for-the-badge)](#)
-[![Progress](https://img.shields.io/badge/Progression-60%25-F59E0B?style=for-the-badge)](#)
+[![Progress](https://img.shields.io/badge/Progression-90%25-F59E0B?style=for-the-badge)](#)
 [![Languages](https://img.shields.io/badge/Langues-FR%20%7C%20AR%20%7C%20EN-06B6D4?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/License-MIT-gray?style=for-the-badge)](#)
 
