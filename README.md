@@ -177,13 +177,13 @@ Assistance à la navigation sur la plateforme :
 |---|---|
 | **Frontend** | React.js · Next.js · TypeScript · Tailwind CSS · shadcn/ui |
 | **Backend** | Node.js · Python (FastAPI) · REST API |
-| **Base de données** | PostgreSQL · Redis (cache) |
-| **Fichiers & Images** | AWS S3 · Cloudinary |
+| **Base de données** | Super base  · Firebase · Redis (cache) |
+| **Fichiers & Images** | Lovbale · Cloudinary |
 | **Cartographie** | Google Maps API |
-| **IA** | OpenAI API · Claude API |
+| **IA** | OpenAI API · Gemini API |
 | **Auth** | JWT · OAuth 2.0 (Google) |
-| **Notifications** | SendGrid (email) · Twilio (SMS) |
-| **Standards** | WCAG 2.1 AA · RTL (Arabe) · PWA |
+| **Notifications** | SendGrid (email) |
+| **Standards** |  RTL (Arabe) · PWA |
 
 </div>
 
@@ -193,24 +193,9 @@ Assistance à la navigation sur la plateforme :
 
 <div align="center">
 
+
 ### 🌐 [cityhealth-dz.lovable.app](https://cityhealth-dz.lovable.app)
 
-```
-█████████████████████████
-█████████████████████████
-████ ▄▄▄▄▄ █▀ █▀ ▄▄▄▄▄ ████
-████ █   █ █▀⁻ ⁻█ █   █ ████
-████ █▄▄▄█ █▀▀▀ █ █▄▄▄█ ████
-████▄▄▄▄▄▄▄█▄█▄█▄▄▄▄▄▄▄████
-████ ▀▄▀▄▀ ▄  ▄ ▄▀▄▄▀▀████
-████▀▄▄█▄▀▄▀▀▀▀▄ ▀  ██ ████
-████ ▄▄▄▄▄ █  ▀▄█▄▀▄▀▀████
-████ █   █ █▀ ▀█▄ ▄▀▄████
-████ █▄▄▄█ █▀▀▀▄▄▄▀ ▀▀████
-█████████████████████████
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-```
-*Scannez pour accéder à la plateforme*
 
 </div>
 
@@ -224,16 +209,16 @@ Assistance à la navigation sur la plateforme :
 |---|---|---|
 | Phase 1 — Fondation | ✅ Terminé | Base de données, auth, profils |
 | Phase 2 — Recherche & Filtres | ✅ Terminé | Recherche avancée, cartes prestataires |
-| Phase 3 — Cartographie | 🔄 En cours | Carte interactive complète |
-| Phase 4 — IA | 🔄 En cours | Assistants IA médicaux et plateforme |
-| Phase 5 — Profils & RDV | ⏳ Planifié | Rendez-vous, dossier santé |
-| Phase 6 — Publicités | ⏳ Planifié | Système d'annonces |
-| Phase 7 — Admin | ⏳ Planifié | Tableau de bord administrateur |
-| Phase 8 — Fonctions Spéciales | ⏳ Planifié | Médicaments gratuits, urgences |
-| Phase 9 — Accessibilité | ⏳ Planifié | WCAG 2.1 AA, RTL complet |
-| Phase 10-12 — Lancement | ⏳ Planifié | Tests, optimisation, déploiement |
+| Phase 3 — Cartographie | ✅ Terminé | Carte interactive complète |
+| Phase 4 — IA | ✅ Terminé | Assistants IA médicaux et plateforme |
+| Phase 5 — Profils & RDV | ✅ Terminé | Rendez-vous, dossier santé |
+| Phase 6 — Publicités | ✅ Terminé | Système d'annonces |
+| Phase 7 — Admin | ✅ Terminé | Tableau de bord administrateur |
+| Phase 8 — Fonctions Spéciales | ✅ Terminé | Médicaments gratuits, urgences |
+| Phase 9 — Accessibilité | 🔄 En cours | WCAG 2.1 AA, RTL complet |
+| Phase 10-12 — Lancement | 🔄 En cours | Tests, optimisation, déploiement |
 
-**Progression globale : ████████████░░░░░░░░ 60%**
+**Progression globale : █████████████████░ 90%**
 
 ---
 
@@ -243,10 +228,9 @@ Assistance à la navigation sur la plateforme :
 
 | | Nom | Rôle | GitHub | LinkedIn |
 |---|---|---|---|---|
-| 👤 | **Belyagoubi Abdelilah** | Co-fondateur & Développeur | — | — |
+| 👤 | **Belyagoubi Abdelilah** | Co-Founder and Chief Technology Officer | — | — |
 | 👤 | **Naimi Abdeljalil** | Co-fondateur & Développeur | — | — |
-| 👤 | *(à compléter)* | *(à compléter)* | — | — |
-| 👤 | *(à compléter)* | *(à compléter)* | — | — |
+
 
 </div>
 
